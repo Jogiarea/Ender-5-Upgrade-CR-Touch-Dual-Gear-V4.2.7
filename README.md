@@ -16,3 +16,5 @@ The compile and create the Marlin finder you to heauf on the net therefore I wil
 the bin file is my last finished state
 
 Suitable for Ender 5 with CR-Touch (plugged in the 5Pin Probe) with Mainboard V4.2.7
+
+A detailed description of my Ender 3 conversion you can find on www.jogiarea.de
